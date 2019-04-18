@@ -1,3 +1,5 @@
+This is just a simple React App where song is fetched using simple songList with Description. The main goal was to use React and React and make most use of them in this learning process.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
